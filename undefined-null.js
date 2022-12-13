@@ -20,6 +20,8 @@ console.log(result2);
 const premik = {name:"smart dude" , phone: 01741367947 , /*gf: 'ALia'*/ };
 console.log(premik.gf);
 
+let ages = [18, 22 , 26];
+console.log(ages[11]);
 
 // UNDEFINED is Negative or Falsy. it can be found by many ways like-- not declaring variable, trying to access property which doesn't exist , access a element from a Array which is not in Array.. etc etc shows "Undefined" in Console!!
 
